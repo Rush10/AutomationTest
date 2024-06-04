@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "53436C60CADEB38C7CF19A8E698055D0",
+  "keywordClasses": [
+    {
+      "name": "com.test.util.Utils",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

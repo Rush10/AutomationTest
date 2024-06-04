@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Time for wait element next page</description>
+      <initValue>20</initValue>
+      <name>timeoutNextPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Time for delay</description>
+      <initValue>10</initValue>
+      <name>timeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Skipped set up Test Suite (TS)</description>
+      <initValue>false</initValue>
+      <name>isSkipSetUpTS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Skipped tear down Test Suite (TS)</description>
+      <initValue>false</initValue>
+      <name>isSkipTearDownTS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Skipped set up Test Case (TC)</description>
+      <initValue>false</initValue>
+      <name>isSkipSetUpTC</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Skipped tear down Test Case (TC)</description>
+      <initValue>false</initValue>
+      <name>isSkipTearDownTC</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Start app for Test Suite (you can choose using 'app id' or 'apk')</description>
+      <initValue>'apk'</initValue>
+      <name>startMethodTS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Start app for Test Case (you can choose using 'app id' or 'apk')</description>
+      <initValue>'app id'</initValue>
+      <name>startMethodTC</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Method close app for Test Suite</description>
+      <initValue>false</initValue>
+      <name>isDeleteSessionTS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Method close app for Test Case</description>
+      <initValue>false</initValue>
+      <name>isDeleteSessionTC</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Open existing app</description>
+      <initValue>'com.mstqa'</initValue>
+      <name>appId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>apk folder path</description>
+      <initValue>'\\Downloads\\Automation Test\\APK\\'</initValue>
+      <name>apkPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Define index apk to run file (index from 0)</description>
+      <initValue>0</initValue>
+      <name>apkIndex</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Uninstall app before start app</description>
+      <initValue>true</initValue>
+      <name>isUninstallApp</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Test Suite Login Add</description>
+   <name>TS002 - Login Add</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>c1b263b9-93b7-4736-9325-285c7fbfcf11</testSuiteGuid>
+   <testCaseLink>
+      <guid>f6f37ed2-f62c-4a22-9017-282c1a9345ad</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC002 - Scenario 2 - Login Add</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4eb2a09a-a2eb-44e2-b804-7c29adf19735</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC003 - Scenario 3 - Login Add</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>11d508ed-e598-4858-b58f-4b56f2e41912</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC004 - Scenario 4 - Login Add</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a4aee83b-9e71-4895-8d0a-924e277b13e6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC005 - Scenario 5 - Login Add</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>05760321-9975-4ef7-8d6c-efa9b87af4c5</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TD001 - Scenario 5</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>05760321-9975-4ef7-8d6c-efa9b87af4c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testData</value>
+         <variableId>4f369c1a-9bb6-47c1-8806-562c75c3ffd4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>05760321-9975-4ef7-8d6c-efa9b87af4c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>5f24bc52-884c-4738-bc49-bd999bc91f90</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>05760321-9975-4ef7-8d6c-efa9b87af4c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>date</value>
+         <variableId>8c164516-08b7-473e-854a-667d008dfea4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>05760321-9975-4ef7-8d6c-efa9b87af4c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>type</value>
+         <variableId>e006fce4-4439-4f71-8314-497a9fc120fe</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>05760321-9975-4ef7-8d6c-efa9b87af4c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>description</value>
+         <variableId>54c4389a-16b0-4cf7-9a01-e25196739d6c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>05760321-9975-4ef7-8d6c-efa9b87af4c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>isUploadFile</value>
+         <variableId>72f7c354-143b-4ffe-adf6-1bad0ff82778</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>05760321-9975-4ef7-8d6c-efa9b87af4c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expected</value>
+         <variableId>59978780-9a9d-4d9f-ba1e-e5bdfc648532</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>05760321-9975-4ef7-8d6c-efa9b87af4c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>note</value>
+         <variableId>ecb41de3-8a31-4f06-884d-7586ff499164</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>455be5fb-85b8-48e2-8ba7-ff90bb29e1c0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC006 - Scenario 6 - Login Add Detail</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0df39414-0abb-4d9f-926f-76ab8934e706</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC007 - Scenario 7 - Login Add Detail</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

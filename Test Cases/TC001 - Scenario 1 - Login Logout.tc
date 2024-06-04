@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case Login Logout</description>
+   <name>TC001 - Scenario 1 - Login Logout</name>
+   <tag>#login #logout</tag>
+   <comment></comment>
+   <testCaseGuid>cd3bd400-6838-4b4e-b898-4d3144ad9ff9</testCaseGuid>
+</TestCaseEntity>

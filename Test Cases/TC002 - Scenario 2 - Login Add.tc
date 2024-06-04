@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case Login Add (Scenario 2)</description>
+   <name>TC002 - Scenario 2 - Login Add</name>
+   <tag>#login #addTodo</tag>
+   <comment></comment>
+   <testCaseGuid>aa0efffe-7c91-4339-a6f1-983a62e021f1</testCaseGuid>
+</TestCaseEntity>

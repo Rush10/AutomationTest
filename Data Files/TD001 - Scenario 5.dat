@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Test Data Scenario 5 (TC005)</description>
+   <name>TD001 - Scenario 5</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>3b3ce392-6c4e-43df-9b7b-1a448ecc2772</dataFileGUID>
+   <dataSourceUrl>C:\Users\ROG\Downloads\Automation Test\Automation Test\Data Files\Test Data\Excel\Test Data Automation.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Scenario 5</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
